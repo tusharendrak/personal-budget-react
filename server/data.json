@@ -1,0 +1,44 @@
+{
+    "myBudget": [
+        {
+            "title": "Entertainment",
+            "budget": 150
+        },
+        {
+            "title": "Housing",
+            "budget": 600
+        },
+        {
+            "title": "Food",
+            "budget": 120
+        },
+        {
+            "title": "Transportation",
+            "budget": 80
+        },
+        {
+            "title": "Education",
+            "budget": 750
+        },
+        {
+            "title": "Utilities",
+            "budget": 45
+        },
+        {
+            "title": "Leisure",
+            "budget": 35
+        },
+        {
+            "title": "Hygiene",
+            "budget": 40
+        },
+        {
+            "title": "Utilities",
+            "budget": 55
+        },
+        {
+            "title": "Accessories",
+            "budget": 70
+        }
+    ]
+}
